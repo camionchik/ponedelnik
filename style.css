@@ -157,9 +157,9 @@ nav a {
 }
 .button:hover {
     padding:100px;
-    background-color:rgb(209, 0, 0);
+    background-color:rgb(240, 0, 0);
     color:red;
-    font-size:40px;
+    font-size:60px;
 }
 .button {
     transition-duration: 0.5s;
