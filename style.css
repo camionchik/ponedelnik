@@ -160,6 +160,7 @@ nav a {
     background-color:rgb(240, 0, 0);
     color:red;
     font-size:80px;
+    transition-duration:0.5s;
 }
 .button {
     transition-duration: 0.5s;
